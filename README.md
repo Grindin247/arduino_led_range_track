@@ -8,3 +8,5 @@ An arduino RGB LED and Ultrasonic sensor sample. The LED changes color with smoo
  - 3x 100 Ohm resistors
  - Wiring
  - Breadboard
+ 
+ ![Demo setup](/images/arduino_rgb_led_ultrasonic_hw_setup_2.jpg?raw=true "Demo Setup")
